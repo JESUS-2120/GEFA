@@ -7,6 +7,6 @@ TRAIN_BATCH_SIZE = 128
 TEST_BATCH_SIZE = 256
 run_model = 0
 cuda = 0
-setting = 0
+setting = 1
 LR = 0.0005
 dataset = 'davis'
